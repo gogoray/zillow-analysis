@@ -1,0 +1,353 @@
+Property URL,MLS ID,Property type,Property price (USD),Sold date (MM/DD/YYYY),Living area,Living area unit,Price per living area unit (USD),Lot/land area,Lot/land area unit,Bedrooms,Bathrooms,Street address,City,Zip,State,Country
+https://www.zillow.com/homedetails/335-Meadowwoods-Dr-Morganton-GA-30560/96826585_zpid/,419293,Single Family,290000,12/30/2025,1636,sqft,177.26,2.41,acres,2,3,335 Meadowwoods Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/338-Buckskin-Dr-Cherry-Log-GA-30522/228804667_zpid/,419329,Single Family,535000,12/29/2025,2405,sqft,222.45,2.06,acres,3,3,338 Buckskin Dr,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/380-Branch-Creek-Rd-Blue-Ridge-GA-30513/244540033_zpid/,420156,Single Family,510000,12/29/2025,1053,sqft,484.33,0.51,acres,2,2,380 Branch Creek Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-River-Ridge-Dr-Blue-Ridge-GA-30513/458095697_zpid/,420187,Lot/Land,78500,12/22/2025,,,,1.34,acres,,,0 River Ridge Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/1421-Kelly-Ridge-Dr-Blue-Ridge-GA-30513/228807300_zpid/,417998,Single Family,530000,12/19/2025,1440,sqft,368.06,1.59,acres,3,2,1421 Kelly Ridge Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/749-Hillcrest-Dr-Mc-Caysville-GA-30555/228812397_zpid/,417792,Single Family,299000,12/19/2025,1528,sqft,195.68,0.74,acres,3,2,749 Hillcrest Dr,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/1421-Kelly-Ridge-Dr-28-Blue-Ridge-GA-30513/455934587_zpid/,10583645,Single Family,530000,12/19/2025,1440,sqft,368.06,1.59,acres,3,2,1421 Kelly Ridge Dr #28,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Minnehaha-Trl-9-15AC-Blue-Ridge-GA-30513/2094991427_zpid/,420079,Lot/Land,83200,12/19/2025,,,,1.3,acres,,,0 Minnehaha Trl #9.15AC,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/4165-Mobile-Rd-Mc-Caysville-GA-30555/455471011_zpid/,417605,Single Family,365000,12/18/2025,1716,sqft,212.7,3,acres,3,2,4165 Mobile Rd,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/4165-Mobile-Rd-4-Mc-Caysville-GA-30555/455893834_zpid/,10582748,Single Family,365000,12/18/2025,1716,sqft,212.7,3,acres,3,2,4165 Mobile Rd #4,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/325-Emelia-Dr-Morganton-GA-30560/244415061_zpid/,420434,Single Family,545000,12/16/2025,2452,sqft,222.27,1.35,acres,2,3,325 Emelia Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/119-Cops-Rd-Blue-Ridge-GA-30513/96831179_zpid/,418772,Single Family,580000,12/15/2025,2940,sqft,197.28,2.2,acres,4,4,119 Cops Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Autumn-Ridge-Dr-LOT-10-LOT-11-Mineral-Bluff-GA-30559/458472416_zpid/,10647540,Lot/Land,97000,12/15/2025,,,,1.36,acres,,,0 Autumn Ridge Dr LOT 10 & LOT 11,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/63-Hawk-Trl-Ellijay-GA-30540/105268918_zpid/,419819,Single Family,373000,12/12/2025,1440,sqft,259.03,3.3,acres,3,2,63 Hawk Trl,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/0-Blazing-Star-Rd-Ellijay-GA-30540/449354009_zpid/,414514,Lot/Land,40000,12/12/2025,,,,1.36,acres,,,0 Blazing Star Rd,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/306-Pig-Trl-Cherry-Log-GA-30522/450127824_zpid/,418236,Single Family,586050,12/12/2025,2546,sqft,230.18,3.55,acres,6,3,306 Pig Trl,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/0-Horizon-Rdg-Blue-Ridge-GA-30513/457716762_zpid/,10631887,Lot/Land,101000,12/12/2025,,,,1,acres,,,0 Horizon Rdg,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/197-Smith-Hill-Rd-Blue-Ridge-GA-30513/105258736_zpid/,418723,Single Family,425600,12/10/2025,1780,sqft,239.1,1.7,acres,2,2,197 Smith Hill Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/197-Smith-Hill-Rd-139-140-Blue-Ridge-GA-30513/442252380_zpid/,10602975,Single Family,425600,12/10/2025,1780,sqft,239.1,1.7,acres,2,2,197 Smith Hill Rd #139-140,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/556-Flat-Creek-Cir-Blue-Ridge-GA-30513/96829305_zpid/,10567527,Single Family,560000,12/09/2025,2688,sqft,208.33,1.25,acres,3,3,556 Flat Creek Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/611-Hemptown-Heights-Dr-Morganton-GA-30560/228801609_zpid/,415095,Single Family,559000,12/09/2025,2340,sqft,238.89,1.7,acres,2,3,611 Hemptown Heights Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/LOT-44-Synacia-Dr-Mineral-Bluff-GA-30559/455937241_zpid/,7637923,Lot/Land,70000,12/09/2025,,,,3.4,acres,0,0,LOT 44 Synacia Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/911-Tipton-Rd-Blue-Ridge-GA-30513/96834014_zpid/,418324,Single Family,262000,12/08/2025,1632,sqft,160.54,0.89,acres,2,2,911 Tipton Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/41-Little-Falls-Dr-Mineral-Bluff-GA-30559/96830855_zpid/,411983,Single Family,260000,12/05/2025,,,,0.93,acres,2,2,41 Little Falls Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/381-Cohutta-Wilderness-Trl-2-Ellijay-GA-30540/117943401_zpid/,419210,Single Family,533000,12/05/2025,2212,sqft,240.96,4.63,acres,3,3,381 Cohutta Wilderness Trl #2,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/41-Little-Falls-Dr-2-Mineral-Bluff-GA-30559/347825758_zpid/,10423502,Single Family,260000,12/05/2025,1920,sqft,135.42,0.93,acres,2,2,41 Little Falls Dr #2,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/68-Whispering-Hawk-Ct-Morganton-GA-30560/244026134_zpid/,7598471,Single Family,420700,12/04/2025,1680,sqft,250.42,0.88,acres,2,2,68 Whispering Hawk Ct,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/79-Haley-Dr-Cherry-Log-GA-30522/457748980_zpid/,419937,Single Family,490000,12/03/2025,912,sqft,537.28,1.11,acres,2,2,79 Haley Dr,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/100-Blueberry-Ln-Blue-Ridge-GA-30513/96834370_zpid/,10619280,Single Family,335000,12/02/2025,1656,sqft,202.29,1.41,acres,2,1,100 Blueberry Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/280-Lucky-Ln-Mineral-Bluff-GA-30559/228802441_zpid/,417379,Single Family,411900,12/02/2025,1980,sqft,208.03,3.57,acres,2,2,280 Lucky Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/58-Wolf-Creek-Dr-Mineral-Bluff-GA-30559/447529998_zpid/,417435,Single Family,590000,12/02/2025,2465,sqft,239.35,1.06,acres,3,4,58 Wolf Creek Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/374-Wolf-Creek-Rd-Mineral-Bluff-GA-30559/228807096_zpid/,419055,Single Family,510000,12/01/2025,924,sqft,551.95,3.83,acres,2,2,374 Wolf Creek Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/0-High-Country-Way-Blue-Ridge-GA-30513/457067763_zpid/,419177,Lot/Land,40000,12/01/2025,,,,0.75,acres,,,0 High Country Way,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/40-Wolf-Creek-Est-Mineral-Bluff-GA-30559/2057437089_zpid/,419133,Lot/Land,55000,12/01/2025,,,,2.95,acres,,,40 Wolf Creek Est,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/411-Old-Highway-5-Blue-Ridge-GA-30513/96833190_zpid/,420056,Single Family,225900,11/26/2025,1518,sqft,148.81,3,acres,4,1,411 Old Highway 5,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Left-Turn-Blue-Ridge-GA-30513/2053597907_zpid/,10235829,Lot/Land,42000,11/26/2025,,,,1.65,acres,,,0 Left Turn,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/273-Oakawana-Trl-Blue-Ridge-GA-30513/96831423_zpid/,416669,Single Family,589000,11/25/2025,2262,sqft,260.39,1.27,acres,3,3,273 Oakawana Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Left-Turn-37-Blue-Ridge-GA-30513/2053598421_zpid/,7317187,Lot/Land,42000,11/25/2025,,,,1.65,acres,0,0,0 Left Turn #37,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/125-Laurel-Mountain-Rd-Blue-Ridge-GA-30513/2094767288_zpid/,418035,Single Family,369000,11/25/2025,672,sqft,549.11,1.65,acres,2,1,125 Laurel Mountain Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/350-Left-Turn-Blue-Ridge-GA-30513/228808918_zpid/,415629,Single Family,400000,11/24/2025,1452,sqft,275.48,1.26,acres,2,2,350 Left Turn,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/350-Left-Turn-15-Blue-Ridge-GA-30513/451819516_zpid/,10521238,Single Family,400000,11/24/2025,1452,sqft,275.48,1.26,acres,2,2,350 Left Turn #15,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/2462-New-Hope-Rd-Morganton-GA-30560/452288914_zpid/,415939,Single Family,475000,11/24/2025,2376,sqft,199.92,1.55,acres,3,2,2462 New Hope Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/77-Brittany-Lane-Cherry-Log-GA-30522/2093364325_zpid/,418706,Single Family,320000,11/24/2025,672,sqft,476.19,0.55,acres,2,1,77 Brittany Lane,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/541-Mountain-View-Cir-Cherry-Log-GA-30522/2122058621_zpid/,153971,Single Family,416400,11/24/2025,1380,sqft,301.74,1.19,acres,2,2,541 Mountain View Cir,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/158-Whispering-Pines-Rd-Blue-Ridge-GA-30513/120943953_zpid/,412204,Single Family,490000,11/21/2025,,,,1.15,acres,3,3,158 Whispering Pines Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/78-Neal-Dr-Morganton-GA-30560/228801619_zpid/,418453,Single Family,300000,11/21/2025,2507,sqft,119.66,0.74,acres,3,2,78 Neal Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/133-Yellowbird-Trl-Blue-Ridge-GA-30513/351791084_zpid/,417096,Single Family,377500,11/21/2025,2696,sqft,140.02,1.5,acres,2,3,133 Yellowbird Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/133-Yellowbird-Trl-34-Blue-Ridge-GA-30513/454865288_zpid/,10559961,Single Family,377500,11/21/2025,2696,sqft,140.02,1.5,acres,2,2,133 Yellowbird Trl #34,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/630-Jones-Rd-Epworth-GA-30541/96833399_zpid/,10400477,Single Family,250000,11/20/2025,1504,sqft,166.22,4.44,acres,3,2,630 Jones Rd,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/512-Woodland-Trl-Epworth-GA-30541/228810976_zpid/,,Single Family,366968,11/20/2025,2148,sqft,170.84,0.67,acres,,2,512 Woodland Trl,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/216-Mount-Pleasant-Dr-Ellijay-GA-30540/2053029956_zpid/,417205,Single Family,265000,11/20/2025,1160,sqft,228.45,0.91,acres,3,2,216 Mount Pleasant Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/37-Dean-Ct-Blue-Ridge-GA-30513/2076017340_zpid/,412686,Single Family,221900,11/20/2025,396,sqft,560.35,0.7,acres,1,1,37 Dean Ct,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/21-Sunset-Cir-Blue-Ridge-GA-30513/117759806_zpid/,7642492,Single Family,161500,11/19/2025,1571,sqft,102.8,1.25,acres,3,2,21 Sunset Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/78-Chicasaw-Dr-Ellijay-GA-30540/2053030480_zpid/,412413,Single Family,450000,11/19/2025,1638,sqft,274.73,0.7,acres,3,3,78 Chicasaw Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/830-Damascus-Cir-Blue-Ridge-GA-30513/96833000_zpid/,10534573,Single Family,161500,11/18/2025,1571,sqft,102.8,1.25,acres,3,2,830 Damascus Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/82-Circle-Dr-Morganton-GA-30560/228812491_zpid/,419166,Single Family,437000,11/18/2025,1095,sqft,399.09,0.7,acres,2,2,82 Circle Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/15-Wolf-Creek-Est-Mineral-Bluff-GA-30559/457605447_zpid/,419768,Lot/Land,45000,11/18/2025,,,,2.18,acres,,,15 Wolf Creek Est,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/405-Shady-Ln-Mineral-Bluff-GA-30559/228806516_zpid/,417932,Single Family,207000,11/17/2025,,,,1.6,acres,2,1,405 Shady Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/1097-Indian-Trl-Mc-Caysville-GA-30555/228810606_zpid/,419622,Single Family,376130,11/14/2025,,,,0.82,acres,3,4,1097 Indian Trl,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/30-The-Forest-Rd-Blue-Ridge-GA-30513/228804772_zpid/,417639,Single Family,495000,11/13/2025,2240,sqft,220.98,1.84,acres,3,3,30 The Forest Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/150-Goss-St-Epworth-GA-30541/110792044_zpid/,,Single Family,80000,11/12/2025,728,sqft,109.89,2.08,acres,,1,150 Goss St,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/50-Stites-Ln-Mineral-Bluff-GA-30559/96828574_zpid/,,Single Family,95000,11/11/2025,1040,sqft,91.35,1.33,acres,,2,50 Stites Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/0-High-Country-Cir-Blue-Ridge-GA-30513/457063809_zpid/,419176,Lot/Land,32000,11/11/2025,,,,0.59,acres,,,0 High Country Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/355-High-Country-Cir-Morganton-GA-30560/96826415_zpid/,416855,Single Family,335000,11/10/2025,3305,sqft,101.36,0.85,acres,3,4,355 High Country Cir,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/499-Allgood-Rd-Cherry-Log-GA-30522/96834261_zpid/,7662760,Single Family,300000,11/10/2025,2490,sqft,120.48,1.98,acres,3,3,499 Allgood Rd,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/Walhalla-Ct-Ellijay-GA-30540/228835540_zpid/,,Single Family,8500,11/10/2025,,,,0.88,acres,,,Walhalla Ct,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/Ridgecrest-Dr-Blue-Ridge-GA-30513/244539826_zpid/,,Single Family,20000,11/10/2025,,,,0.55,acres,,,Ridgecrest Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/355-High-Country-Cir-16-Morganton-GA-30560/454108776_zpid/,10553347,Single Family,335000,11/10/2025,3305,sqft,101.36,0.85,acres,3,4,355 High Country Cir #16,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/255-Loving-Rd-Morganton-GA-30560/96826268_zpid/,7603382,Single Family,405000,11/07/2025,1702,sqft,237.96,1.1,acres,4,3,255 Loving Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/373-Moss-Ln-Blue-Ridge-GA-30513/228808564_zpid/,7637901,Single Family,459900,11/07/2025,1248,sqft,368.51,1.15,acres,2,2,373 Moss Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/LOT-390-Walhalla-Ct-Ellijay-GA-30540/447132297_zpid/,413050,Lot/Land,17000,11/07/2025,,,,1.22,acres,,,LOT 390 Walhalla Ct,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/LOT-12-Meadow-Brook-Trl-Morganton-GA-30560/2064167319_zpid/,415036,Lot/Land,82000,11/07/2025,,,,1.55,acres,,,LOT 12 Meadow Brook Trl,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/89-Whispering-Hawk-Ct-Morganton-GA-30560/299384256_zpid/,418061,Single Family,594450,11/06/2025,1920,sqft,309.61,1.95,acres,3,3,89 Whispering Hawk Ct,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/28-Mountain-View-Rd-2-Ellijay-GA-30540/113515513_zpid/,,Single Family,540000,11/04/2025,2160,sqft,250,2.48,acres,,2.5,28 Mountain View Rd #2,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/322-Cardinal-Ln-Blue-Ridge-GA-30513/228809704_zpid/,,Single Family,80000,11/04/2025,,,,5,acres,,,322 Cardinal Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/215-Brookhaven-Trl-Blue-Ridge-GA-30513/228810524_zpid/,413530,Single Family,490000,11/04/2025,2132,sqft,229.83,1.09,acres,2,2,215 Brookhaven Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/303-Lookiba-Ln-Ellijay-GA-30540/228835803_zpid/,,Single Family,30000,11/04/2025,,,,1.03,acres,,,303 Lookiba Ln,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/88-Indian-Rock-Rdg-3-Blue-Ridge-GA-30513/228838777_zpid/,,Single Family,450000,11/04/2025,1704,sqft,264.08,0.81,acres,4,3,88 Indian Rock Rdg #3,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/238-Hay-Ln-Morganton-GA-30560/228801561_zpid/,418114,Single Family,535000,11/03/2025,2176,sqft,245.86,3.26,acres,3,3,238 Hay Ln,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/3-Mountain-Lake-Dr-Blue-Ridge-GA-30513/228804474_zpid/,7655950,Single Family,222500,11/03/2025,1180,sqft,188.56,0.78,acres,2,1,3 Mountain Lake Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/88-Indian-Rock-Rd-Blue-Ridge-GA-30513/450751381_zpid/,417438,Single Family,450000,11/03/2025,2376,sqft,189.39,0.81,acres,3,3,88 Indian Rock Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/28-Mountain-View-Rd-Ellijay-GA-30540/457149885_zpid/,7652475,Single Family,540000,11/03/2025,2160,sqft,250,2.48,acres,3,3,28 Mountain View Rd,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/335-Meadowwoods-Dr-Morganton-GA-30560/96826585_zpid/,419293,Single Family,290000,12/30/2025,1636,sqft,177.26,2.41,acres,2,3,335 Meadowwoods Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/338-Buckskin-Dr-Cherry-Log-GA-30522/228804667_zpid/,419329,Single Family,535000,12/29/2025,2405,sqft,222.45,2.06,acres,3,3,338 Buckskin Dr,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/380-Branch-Creek-Rd-Blue-Ridge-GA-30513/244540033_zpid/,420156,Single Family,510000,12/29/2025,1053,sqft,484.33,0.51,acres,2,2,380 Branch Creek Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-River-Ridge-Dr-Blue-Ridge-GA-30513/458095697_zpid/,420187,Lot/Land,78500,12/22/2025,,,,1.34,acres,,,0 River Ridge Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/1421-Kelly-Ridge-Dr-Blue-Ridge-GA-30513/228807300_zpid/,417998,Single Family,530000,12/19/2025,1440,sqft,368.06,1.59,acres,3,2,1421 Kelly Ridge Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/749-Hillcrest-Dr-Mc-Caysville-GA-30555/228812397_zpid/,417792,Single Family,299000,12/19/2025,1528,sqft,195.68,0.74,acres,3,2,749 Hillcrest Dr,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/1421-Kelly-Ridge-Dr-28-Blue-Ridge-GA-30513/455934587_zpid/,10583645,Single Family,530000,12/19/2025,1440,sqft,368.06,1.59,acres,3,2,1421 Kelly Ridge Dr #28,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Minnehaha-Trl-9-15AC-Blue-Ridge-GA-30513/2094991427_zpid/,420079,Lot/Land,83200,12/19/2025,,,,1.3,acres,,,0 Minnehaha Trl #9.15AC,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/4165-Mobile-Rd-Mc-Caysville-GA-30555/455471011_zpid/,417605,Single Family,365000,12/18/2025,1716,sqft,212.7,3,acres,3,2,4165 Mobile Rd,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/4165-Mobile-Rd-4-Mc-Caysville-GA-30555/455893834_zpid/,10582748,Single Family,365000,12/18/2025,1716,sqft,212.7,3,acres,3,2,4165 Mobile Rd #4,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/325-Emelia-Dr-Morganton-GA-30560/244415061_zpid/,420434,Single Family,545000,12/16/2025,2452,sqft,222.27,1.35,acres,2,3,325 Emelia Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/119-Cops-Rd-Blue-Ridge-GA-30513/96831179_zpid/,418772,Single Family,580000,12/15/2025,2940,sqft,197.28,2.2,acres,4,4,119 Cops Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Autumn-Ridge-Dr-LOT-10-LOT-11-Mineral-Bluff-GA-30559/458472416_zpid/,10647540,Lot/Land,97000,12/15/2025,,,,1.36,acres,,,0 Autumn Ridge Dr LOT 10 & LOT 11,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/63-Hawk-Trl-Ellijay-GA-30540/105268918_zpid/,419819,Single Family,373000,12/12/2025,1440,sqft,259.03,3.3,acres,3,2,63 Hawk Trl,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/0-Blazing-Star-Rd-Ellijay-GA-30540/449354009_zpid/,414514,Lot/Land,40000,12/12/2025,,,,1.36,acres,,,0 Blazing Star Rd,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/306-Pig-Trl-Cherry-Log-GA-30522/450127824_zpid/,418236,Single Family,586050,12/12/2025,2546,sqft,230.18,3.55,acres,6,3,306 Pig Trl,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/0-Horizon-Rdg-Blue-Ridge-GA-30513/457716762_zpid/,10631887,Lot/Land,101000,12/12/2025,,,,1,acres,,,0 Horizon Rdg,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/197-Smith-Hill-Rd-Blue-Ridge-GA-30513/105258736_zpid/,418723,Single Family,425600,12/10/2025,1780,sqft,239.1,1.7,acres,2,2,197 Smith Hill Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/197-Smith-Hill-Rd-139-140-Blue-Ridge-GA-30513/442252380_zpid/,10602975,Single Family,425600,12/10/2025,1780,sqft,239.1,1.7,acres,2,2,197 Smith Hill Rd #139-140,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/556-Flat-Creek-Cir-Blue-Ridge-GA-30513/96829305_zpid/,10567527,Single Family,560000,12/09/2025,2688,sqft,208.33,1.25,acres,3,3,556 Flat Creek Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/611-Hemptown-Heights-Dr-Morganton-GA-30560/228801609_zpid/,415095,Single Family,559000,12/09/2025,2340,sqft,238.89,1.7,acres,2,3,611 Hemptown Heights Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/LOT-44-Synacia-Dr-Mineral-Bluff-GA-30559/455937241_zpid/,7637923,Lot/Land,70000,12/09/2025,,,,3.4,acres,0,0,LOT 44 Synacia Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/911-Tipton-Rd-Blue-Ridge-GA-30513/96834014_zpid/,418324,Single Family,262000,12/08/2025,1632,sqft,160.54,0.89,acres,2,2,911 Tipton Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/41-Little-Falls-Dr-Mineral-Bluff-GA-30559/96830855_zpid/,411983,Single Family,260000,12/05/2025,,,,0.93,acres,2,2,41 Little Falls Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/381-Cohutta-Wilderness-Trl-2-Ellijay-GA-30540/117943401_zpid/,419210,Single Family,533000,12/05/2025,2212,sqft,240.96,4.63,acres,3,3,381 Cohutta Wilderness Trl #2,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/41-Little-Falls-Dr-2-Mineral-Bluff-GA-30559/347825758_zpid/,10423502,Single Family,260000,12/05/2025,1920,sqft,135.42,0.93,acres,2,2,41 Little Falls Dr #2,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/68-Whispering-Hawk-Ct-Morganton-GA-30560/244026134_zpid/,7598471,Single Family,420700,12/04/2025,1680,sqft,250.42,0.88,acres,2,2,68 Whispering Hawk Ct,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/79-Haley-Dr-Cherry-Log-GA-30522/457748980_zpid/,419937,Single Family,490000,12/03/2025,912,sqft,537.28,1.11,acres,2,2,79 Haley Dr,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/100-Blueberry-Ln-Blue-Ridge-GA-30513/96834370_zpid/,10619280,Single Family,335000,12/02/2025,1656,sqft,202.29,1.41,acres,2,1,100 Blueberry Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/280-Lucky-Ln-Mineral-Bluff-GA-30559/228802441_zpid/,417379,Single Family,411900,12/02/2025,1980,sqft,208.03,3.57,acres,2,2,280 Lucky Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/58-Wolf-Creek-Dr-Mineral-Bluff-GA-30559/447529998_zpid/,417435,Single Family,590000,12/02/2025,2465,sqft,239.35,1.06,acres,3,4,58 Wolf Creek Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/374-Wolf-Creek-Rd-Mineral-Bluff-GA-30559/228807096_zpid/,419055,Single Family,510000,12/01/2025,924,sqft,551.95,3.83,acres,2,2,374 Wolf Creek Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/0-High-Country-Way-Blue-Ridge-GA-30513/457067763_zpid/,419177,Lot/Land,40000,12/01/2025,,,,0.75,acres,,,0 High Country Way,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/40-Wolf-Creek-Est-Mineral-Bluff-GA-30559/2057437089_zpid/,419133,Lot/Land,55000,12/01/2025,,,,2.95,acres,,,40 Wolf Creek Est,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/411-Old-Highway-5-Blue-Ridge-GA-30513/96833190_zpid/,420056,Single Family,225900,11/26/2025,1518,sqft,148.81,3,acres,4,1,411 Old Highway 5,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Left-Turn-Blue-Ridge-GA-30513/2053597907_zpid/,10235829,Lot/Land,42000,11/26/2025,,,,1.65,acres,,,0 Left Turn,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/273-Oakawana-Trl-Blue-Ridge-GA-30513/96831423_zpid/,416669,Single Family,589000,11/25/2025,2262,sqft,260.39,1.27,acres,3,3,273 Oakawana Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Left-Turn-37-Blue-Ridge-GA-30513/2053598421_zpid/,7317187,Lot/Land,42000,11/25/2025,,,,1.65,acres,0,0,0 Left Turn #37,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/125-Laurel-Mountain-Rd-Blue-Ridge-GA-30513/2094767288_zpid/,418035,Single Family,369000,11/25/2025,672,sqft,549.11,1.65,acres,2,1,125 Laurel Mountain Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/350-Left-Turn-Blue-Ridge-GA-30513/228808918_zpid/,415629,Single Family,400000,11/24/2025,1452,sqft,275.48,1.26,acres,2,2,350 Left Turn,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/350-Left-Turn-15-Blue-Ridge-GA-30513/451819516_zpid/,10521238,Single Family,400000,11/24/2025,1452,sqft,275.48,1.26,acres,2,2,350 Left Turn #15,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/167-Mangums-Trl-Blue-Ridge-GA-30513/228811242_zpid/,418203,Single Family,225000,10/10/2025,840,sqft,267.86,3.78,acres,1,1,167 Mangums Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/327-Kateri-Rdg-Ellijay-GA-30540/456596711_zpid/,418676,Single Family,489900,10/10/2025,1268,sqft,386.36,1.93,acres,2,2,327 Kateri Rdg,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/23-Hiawassee-Ct-1-Ellijay-GA-30540/450741633_zpid/,323830,Lot/Land,590000,10/09/2025,,,,1.58,acres,,,23 Hiawassee Ct #1,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/85-Christopher-Dr-1-Ellijay-GA-30540/247200807_zpid/,,Single Family,475000,10/08/2025,,,,0.93,acres,,,85 Christopher Dr #1,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/85-Christopher-Dr-Ellijay-GA-30540/449964115_zpid/,414784,Single Family,475000,10/08/2025,1121,sqft,423.73,0.93,acres,2,2,85 Christopher Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/475-Allgood-Rd-Cherry-Log-GA-30522/110792300_zpid/,,Single Family,8000,10/07/2025,2390,sqft,3.35,1.86,acres,,3,475 Allgood Rd,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/595-Ripshin-Mountain-Rd-Blue-Ridge-GA-30513/228805628_zpid/,10593259,Single Family,368000,10/07/2025,1536,sqft,239.58,1.13,acres,2,2,595 Ripshin Mountain Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Idle-Ln-6-7-Blue-Ridge-GA-30513/456716220_zpid/,7650212,Lot/Land,125500,10/07/2025,,,,4.3,acres,0,0,Idle Ln #6-7,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Idle-Ln-Blue-Ridge-GA-30513/456716389_zpid/,10606041,Lot/Land,125500,10/07/2025,,,,4.3,acres,,,Idle Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/91-Old-Hollow-Rd-Blue-Ridge-GA-30513/96832232_zpid/,418216,Single Family,166000,10/06/2025,864,sqft,192.13,0.5,acres,2,1,91 Old Hollow Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/200-Lickskillet-Rd-Epworth-GA-30541/228811996_zpid/,418550,Single Family,299000,10/06/2025,1404,sqft,212.96,0.79,acres,3,2,200 Lickskillet Rd,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/Suwnee-Ct-Ellijay-GA-30540/228835619_zpid/,,Single Family,25000,10/06/2025,,,,0.96,acres,,,Suwnee Ct,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/788-Beavers-Dr-Morganton-GA-30560/299826837_zpid/,416014,Lot/Land,130000,10/06/2025,,,,4.36,acres,,,788 Beavers Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/154-Community-Hill-Dr-Blue-Ridge-GA-30513/345990164_zpid/,,Single Family,335000,10/06/2025,1224,sqft,273.69,1.37,acres,,1,154 Community Hill Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/491-River-Estates-Rd-Mineral-Bluff-GA-30559/96830210_zpid/,418492,Single Family,585000,10/03/2025,2142,sqft,273.11,2,acres,3,4,491 River Estates Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/1984-Madola-Rd-Epworth-GA-30541/96833355_zpid/,418423,Single Family,340000,10/03/2025,1485,sqft,228.96,3,acres,3,2,1984 Madola Rd,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/176-Meadow-Creek-Way-Blue-Ridge-GA-30513/117759429_zpid/,415181,Single Family,400000,10/03/2025,,,,2.44,acres,4,2,176 Meadow Creek Way,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/170-Community-Hill-Dr-Blue-Ridge-GA-30513/446372421_zpid/,412895,Single Family,335000,10/03/2025,1224,sqft,273.69,1.37,acres,3,2,170 Community Hill Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/170-Community-Hill-Dr-54-Blue-Ridge-GA-30513/446839394_zpid/,10451282,Single Family,335000,10/03/2025,1224,sqft,273.69,1.37,acres,3,2,170 Community Hill Dr #54,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Pack-Creek-Rd-Blue-Ridge-GA-30513/450742550_zpid/,413816,Lot/Land,148000,10/03/2025,,,,5,acres,,,Pack Creek Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/2-Cherokee-Ln-Mc-Caysville-GA-30555/453568639_zpid/,416667,Lot/Land,195000,10/03/2025,,,,3.28,acres,,,2 Cherokee Ln,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/5173-Old-Highway-76-Blue-Ridge-GA-30513/338961975_zpid/,,Single Family,225000,10/02/2025,1092,sqft,206.04,1.11,acres,2,2,5173 Old Highway 76,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/2634-Mountain-View-Rd-Mc-Caysville-GA-30555/120941266_zpid/,10470338,Single Family,396000,10/01/2025,0,,,1.5,acres,2,2,2634 Mountain View Rd,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/780-Watson-Gap-Rd-Mineral-Bluff-GA-30559/228802335_zpid/,416632,Single Family,250000,10/01/2025,,,,0.75,acres,2,2,780 Watson Gap Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/120-Christopher-Dr-1-Ellijay-GA-30540/247202116_zpid/,,Single Family,378000,10/01/2025,912,sqft,414.47,1.92,acres,,2,120 Christopher Dr #1,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/2634-Mountain-View-Rd-Blue-Ridge-GA-30513/440501202_zpid/,413611,Single Family,396000,10/01/2025,984,sqft,402.44,1.5,acres,2,2,2634 Mountain View Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Pond-Overlook-Ln-Morganton-GA-30560/450741657_zpid/,,Single Family,42500,10/01/2025,,,,1.31,acres,,,Pond Overlook Ln,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/23-Hiawassee-Ct-Ellijay-GA-30540/456440370_zpid/,418549,Single Family,590000,10/01/2025,1980,sqft,297.98,1.58,acres,2,3,23 Hiawassee Ct,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/85-Trail-Tree-Dr-Mc-Caysville-GA-30555/110792153_zpid/,418387,Single Family,380000,09/30/2025,1786,sqft,212.77,2.02,acres,3,3,85 Trail Tree Dr,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/837-Price-Rd-Blue-Ridge-GA-30513/228809527_zpid/,418239,Single Family,597000,09/30/2025,2400,sqft,248.75,1,acres,3,3,837 Price Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/65-Christopher-Dr-1-Ellijay-GA-30540/247200808_zpid/,,Single Family,380000,09/30/2025,,,,0.87,acres,,,65 Christopher Dr #1,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/LOT-18-19-Pond-Overlook-Ln-Morganton-GA-30560/349774996_zpid/,416661,Lot/Land,85000,09/30/2025,,,,2.58,acres,,,LOT 18/19 Pond Overlook Ln,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/120-Christopher-Ct-Ellijay-GA-30540/2083147059_zpid/,418235,Single Family,378000,09/30/2025,912,sqft,414.47,1.92,acres,2,2,120 Christopher Ct,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/95-River-Bend-Ct-1-Ellijay-GA-30540/247202645_zpid/,,Single Family,425000,09/29/2025,892,sqft,476.46,0.58,acres,2,2,95 River Bend Ct #1,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/65-Christopher-Dr-Ellijay-GA-30540/449966374_zpid/,414789,Single Family,380000,09/29/2025,912,sqft,416.67,0.87,acres,2,2,65 Christopher Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/2-Oasis-Dr-Blue-Ridge-GA-30513/456241138_zpid/,418283,Lot/Land,225000,09/29/2025,,,,3.84,acres,,,2 Oasis Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/2-Oasis-Dr-2-Blue-Ridge-GA-30513/456248747_zpid/,7638931,Lot/Land,225000,09/29/2025,,,,3.84,acres,0,0,2 Oasis Dr #2,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/95-River-Bend-Ct-Ellijay-GA-30540/458273201_zpid/,416005,Single Family,425000,09/29/2025,892,sqft,476.46,0.58,acres,2,2,95 River Bend Ct,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/61-Pinewood-Rd-Blue-Ridge-GA-30513/96828690_zpid/,412267,Single Family,465000,09/26/2025,1354,sqft,343.43,0.67,acres,3,2,61 Pinewood Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/65-Oak-Ridge-Way-Morganton-GA-30560/228801606_zpid/,414911,Single Family,450000,09/26/2025,2921,sqft,154.06,1.25,acres,3,4,65 Oak Ridge Way,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/600-Indian-Trl-Mc-Caysville-GA-30555/228810634_zpid/,,Single Family,300000,09/26/2025,2427,sqft,123.61,1.76,acres,3,2,600 Indian Trl,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/203-Chimney-Rock-Rd-3-Ellijay-GA-30540/247203267_zpid/,,Single Family,475000,09/26/2025,864,sqft,549.77,1.7,acres,2,2,203 Chimney Rock Rd #3,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/Old-Toccoa-Loop-Blue-Ridge-GA-30513/316801667_zpid/,,Single Family,215000,09/26/2025,,,,0.6,acres,,,Old Toccoa Loop,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/337-Fain-St-Morganton-GA-30560/228801579_zpid/,,Single Family,494500,09/25/2025,2080,sqft,237.74,1.39,acres,,3,337 Fain St,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/Kingtown-St-Blue-Ridge-GA-30513/316801848_zpid/,,Single Family,75000,09/25/2025,,,,0.84,acres,,,Kingtown St,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/203-Chimney-Rock-Rd-Blue-Ridge-GA-30513/359464791_zpid/,414941,Single Family,475000,09/25/2025,864,sqft,549.77,1.7,acres,2,2,203 Chimney Rock Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/203-Chimney-Rock-Rd-467-Ellijay-GA-30540/450131270_zpid/,10504531,Single Family,475000,09/25/2025,864,sqft,549.77,1.7,acres,2,2,203 Chimney Rock Rd #467,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/214-Laurel-Creek-Trl-Blue-Ridge-GA-30513/456519538_zpid/,418430,Single Family,410000,09/25/2025,,,,1.21,acres,2,2,214 Laurel Creek Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/337-Fawn-Trail-Morganton-GA-30560/2082422872_zpid/,407068,Single Family,494500,09/25/2025,2080,sqft,237.74,1.39,acres,4,3,337 Fawn Trail,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/141-Prince-Ln-Mineral-Bluff-GA-30559/96827773_zpid/,,Single Family,161346,09/24/2025,960,sqft,168.07,0.78,acres,,1,141 Prince Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/Mountain-View-Rd-Ellijay-GA-30540/228832524_zpid/,,Single Family,45000,09/24/2025,,,,0.84,acres,,,Mountain View Rd,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/120-Tomahawk-Trl-3-Ellijay-GA-30540/105258275_zpid/,,Single Family,290000,09/23/2025,1008,sqft,287.7,1.09,acres,2,2,120 Tomahawk Trl #3,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/121-Broken-Arrow-Path-Blue-Ridge-GA-30513/447926984_zpid/,7532887,Single Family,450000,09/22/2025,1160,sqft,387.93,0.98,acres,3,2,121 Broken Arrow Path,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/121-Broken-Arrow-Cherry-Log-GA-30522/2096429961_zpid/,413544,Single Family,450000,09/22/2025,1160,sqft,387.93,0.98,acres,3,2,121 Broken Arrow,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/112-Songbird-Ave-Blue-Ridge-GA-30513/96829812_zpid/,416137,Single Family,380000,09/19/2025,1470,sqft,258.5,1.12,acres,2,2,112 Songbird Ave,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/400-Goose-Island-Rd-3-Cherry-Log-GA-30522/105259621_zpid/,,Single Family,163000,09/19/2025,880,sqft,185.23,0.5,acres,3,1,400 Goose Island Rd #3,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/79-Lake-Dr-Morganton-GA-30560/228812481_zpid/,416172,Single Family,505000,09/19/2025,2200,sqft,229.55,3.87,acres,4,3,79 Lake Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/Township-Road-7-St-7-ADA-Blue-Ridge-GA-30513/452317608_zpid/,7585437,Lot/Land,68000,09/19/2025,,,,3.5,acres,0,0,Township Road 7 St #7-ADA,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/120-Tomahawk-Cir-Blue-Ridge-GA-30513/455821725_zpid/,417905,Single Family,290000,09/19/2025,1344,sqft,215.77,1.09,acres,2,1,120 Tomahawk Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/120-Tomahawk-Trl-Blue-Ridge-GA-30513/2057821642_zpid/,7628467,Single Family,290000,09/19/2025,1008,sqft,287.7,1.09,acres,2,1,120 Tomahawk Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/10-Rocking-Chair-Rd-Mineral-Bluff-GA-30559/2078384506_zpid/,417694,Lot/Land,48000,09/19/2025,,,,3.92,acres,,,10 Rocking Chair Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/260-Mountain-High-Dr-Mineral-Bluff-GA-30559/228802692_zpid/,417319,Single Family,443200,09/18/2025,2560,sqft,173.13,1.06,acres,3,4,260 Mountain High Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/708-Thomas-Mountain-Rd-Morganton-GA-30560/96824038_zpid/,413773,Single Family,550000,09/17/2025,1786,sqft,307.95,2.75,acres,3,2,708 Thomas Mountain Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/9-Candice-Ct-N-3-Blue-Ridge-GA-30513/126375460_zpid/,,Single Family,355000,09/17/2025,1038,sqft,342,1.27,acres,2,1,9 Candice Ct N #3,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/73-Mountain-View-Rd-Ellijay-GA-30540/450531088_zpid/,415280,Lot/Land,45000,09/17/2025,,,,0.84,acres,,,73 Mountain View Rd,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/9-Candice-Ct-N-Blue-Ridge-GA-30513/2053029323_zpid/,418146,Single Family,355000,09/17/2025,1038,sqft,342,1.27,acres,2,1,9 Candice Ct N,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/79-Pocaset-Dr-Ellijay-GA-30540/105268708_zpid/,415821,Single Family,422000,09/15/2025,1792,sqft,235.49,0.76,acres,4,2,79 Pocaset Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/566-Mountain-View-Rd-3-Ellijay-GA-30540/228841270_zpid/,,Single Family,420000,09/15/2025,1440,sqft,291.67,1.02,acres,2,2,566 Mountain View Rd #3,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/174-Little-Rock-Creek-Ct-2-Cherry-Log-GA-30522/228841686_zpid/,,Single Family,352000,09/15/2025,666,sqft,528.53,2.16,acres,2,1,174 Little Rock Creek Ct #2,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/105-Jason-Martin-Cir-Blue-Ridge-GA-30513/2070891803_zpid/,417256,Single Family,435000,09/15/2025,950,sqft,457.89,1.06,acres,2,2,105 Jason Martin Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/102-Briar-Creek-Dr-Ellijay-GA-30540/105268789_zpid/,413487,Single Family,373000,09/12/2025,1084,sqft,344.1,2.79,acres,3,2,102 Briar Creek Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/400-Church-St-Epworth-GA-30541/113513775_zpid/,417557,Single Family,300000,09/12/2025,1462,sqft,205.2,1.38,acres,3,2,400 Church St,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/133-Deer-Hunter-Rd-Blue-Ridge-GA-30513/244541735_zpid/,,Single Family,500000,09/12/2025,1344,sqft,372.02,2,acres,2,2,133 Deer Hunter Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/566-Mtn-View-Cir-Cherry-Log-GA-30522/2090014504_zpid/,416785,Single Family,420000,09/12/2025,1440,sqft,291.67,1.02,acres,3,2,566 Mtn View Cir,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/174-Little-Rock-Creek-Ct-Cherry-Log-GA-30522/2110867395_zpid/,416194,Single Family,352000,09/12/2025,666,sqft,528.53,2.2,acres,2,1,174 Little Rock Creek Ct,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/2303-Murphy-Hwy-Mineral-Bluff-GA-30559/96827493_zpid/,,Single Family,43000,09/11/2025,1176,sqft,36.56,2.88,acres,,1,2303 Murphy Hwy,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/LOT-177-Old-Toccoa-Loop-Mineral-Bluff-GA-30559/347055435_zpid/,326056,Lot/Land,210000,09/11/2025,,,,0.51,acres,,,LOT 177 Old Toccoa Loop,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/2-88-Mountain-Laurel-Dr-Mineral-Bluff-GA-30559/2054278448_zpid/,412792,Lot/Land,43000,09/11/2025,,,,2.88,acres,,,2.88 Mountain Laurel Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/61-Woodstock-Dr-Blue-Ridge-GA-30513/96828305_zpid/,407777,Single Family,497000,09/10/2025,,,,0.65,acres,2,2,61 Woodstock Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/201-Minnehaha-Trl-Blue-Ridge-GA-30513/113514615_zpid/,419576,Single Family,365000,09/10/2025,,,,1.22,acres,3,3,201 Minnehaha Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Altamaha-Dr-Ellijay-GA-30540/228835506_zpid/,,Single Family,40000,09/10/2025,,,,0.83,acres,,,Altamaha Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/24-Virginia-Dr-Blue-Ridge-GA-30513/244415591_zpid/,411852,Single Family,348000,09/10/2025,1848,sqft,188.31,1.15,acres,3,3,24 Virginia Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/34-35-Wolf-Creek-Rd-Mineral-Bluff-GA-30559/2056838880_zpid/,413784,Lot/Land,78000,09/10/2025,,,,2.06,acres,,,34/35 Wolf Creek Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/937-Fern-Dr-Morganton-GA-30560/96826923_zpid/,414466,Single Family,550000,09/09/2025,,,,5,acres,2,3,937 Fern Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/355-Cohutta-Mountain-Rd-3-Blue-Ridge-GA-30513/228838809_zpid/,,Single Family,430000,09/08/2025,930,sqft,462.37,0.82,acres,,1,355 Cohutta Mountain Rd #3,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/114-Jake-Dr-Morganton-GA-30560/105424363_zpid/,414031,Single Family,364340,09/05/2025,2098,sqft,173.66,2.85,acres,4,3,114 Jake Dr,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/103-Altamaha-Dr-1-Ellijay-GA-30540/228835609_zpid/,,Single Family,465000,09/05/2025,1758,sqft,264.51,0.82,acres,2,2,103 Altamaha Dr #1,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/632-Cherry-Lake-Dr-3-Blue-Ridge-GA-30513/228838755_zpid/,,Single Family,420000,09/05/2025,852,sqft,492.96,1.16,acres,2,2,632 Cherry Lake Dr #3,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/103-Altamaha-Dr-Ellijay-GA-30540/452991761_zpid/,416301,Single Family,465000,09/04/2025,1758,sqft,264.51,0.82,acres,2,2,103 Altamaha Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/450-Garren-Cove-Rd-Morganton-GA-30560/96826361_zpid/,,Single Family,255000,09/03/2025,1570,sqft,162.42,1.43,acres,,2,450 Garren Cove Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/320-Little-Creek-Dr-Cherry-Log-GA-30522/96829124_zpid/,416771,Single Family,441000,09/03/2025,1950,sqft,226.15,2,acres,3,2,320 Little Creek Dr,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/24-Oak-Ledge-Rd-Morganton-GA-30560/228799514_zpid/,409467,Single Family,450000,09/03/2025,1824,sqft,246.71,1.38,acres,4,2,24 Oak Ledge Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/632-Cherry-Lake-Blue-Ridge-GA-30513/2084761170_zpid/,417394,Single Family,420000,09/03/2025,852,sqft,492.96,1.2,acres,2,2,632 Cherry Lake,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/355-Cohutta-Mountain-Rd-Cherry-Log-GA-30522/2084982458_zpid/,414983,Single Family,430000,09/03/2025,930,sqft,462.37,0.82,acres,2,1,355 Cohutta Mountain Rd,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/552-Satsuma-Ct-S-1-Ellijay-GA-30540/105268969_zpid/,,Single Family,401000,09/02/2025,3088,sqft,129.86,0.76,acres,,1.5,552 Satsuma Ct S #1,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/252-School-St-Mc-Caysville-GA-30555/228812169_zpid/,416509,Single Family,255000,09/02/2025,1328,sqft,192.02,0.55,acres,2,2,252 School St,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/My-Mountain-Rd-Morganton-GA-30560/294989281_zpid/,,Single Family,70000,09/02/2025,,,,3.25,acres,,,My Mountain Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/3409-N-Flagpole-Rd-Ellijay-GA-30540/446597630_zpid/,412916,Lot/Land,120000,09/02/2025,,,,5,acres,,,3409 N Flagpole Rd,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/0-My-Mountain-Rd-2-3-Morganton-GA-30560/2054085953_zpid/,7547554,Lot/Land,70000,09/02/2025,,,,3.25,acres,0,0,0 My Mountain Rd #2/3,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/0-My-Mountain-Rd-Morganton-GA-30560/2097420208_zpid/,10488094,Lot/Land,70000,09/02/2025,,,,3.25,acres,,,0 My Mountain Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/99-Cedar-Ridge-Rd-Cherry-Log-GA-30522/105259448_zpid/,413244,Single Family,396388,08/29/2025,2186,sqft,181.33,0.71,acres,3,3,99 Cedar Ridge Rd,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/352-Sunrise-Ct-Blue-Ridge-GA-30513/228808056_zpid/,413959,Single Family,490000,08/29/2025,3120,sqft,157.05,1.53,acres,3,3,352 Sunrise Ct,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/11-Long-View-Ln-Blue-Ridge-GA-30513/448178924_zpid/,413755,Lot/Land,95000,08/29/2025,,,,0.93,acres,,,11 Long View Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/366-Three-Oaks-Dr-Mineral-Bluff-GA-30559/450741950_zpid/,414767,Single Family,390000,08/29/2025,725,sqft,537.93,1.7,acres,2,1,366 Three Oaks Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/107-Little-Bushy-Head-Rd-Blue-Ridge-GA-30513/2113908385_zpid/,417321,Single Family,485000,08/29/2025,864,sqft,561.34,1.37,acres,2,2,107 Little Bushy Head Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/1-Cadmans-Hammock-Blue-Ridge-GA-30513/96832413_zpid/,416975,Single Family,370000,08/28/2025,1125,sqft,328.89,1.47,acres,2,1,1 Cadmans Hammock,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/10-Johnson-Ford-Rd-Epworth-GA-30541/96833501_zpid/,412216,Single Family,523000,08/28/2025,3348,sqft,156.21,1.93,acres,4,3,10 Johnson Ford Rd,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/112-Sunrise-Ln-Blue-Ridge-GA-30513/113514557_zpid/,415182,Single Family,375000,08/28/2025,992,sqft,378.02,1.1,acres,2,2,112 Sunrise Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/297-Happy-Valley-Ln-Morganton-GA-30560/294989110_zpid/,,Single Family,530000,08/27/2025,1484,sqft,357.14,0.81,acres,,2,297 Happy Valley Ln,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/501-New-Liberty-Rd-Mineral-Bluff-GA-30559/228802345_zpid/,,Lot/Land,36000,08/26/2025,,,,1.04,acres,,,501 New Liberty Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/Willow-Creek-Dr-Blue-Ridge-GA-30513/244415721_zpid/,,Single Family,30000,08/25/2025,,,,3.14,acres,,,Willow Creek Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/879-Amy-Creek-Cir-2-Ellijay-GA-30540/105266732_zpid/,,Single Family,500000,08/22/2025,1704,sqft,293.43,4.43,acres,3,2,879 Amy Creek Cir #2,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/166-Mountain-View-Dr-Cherry-Log-GA-30522/228811413_zpid/,410113,Single Family,423000,08/22/2025,1080,sqft,391.67,0.77,acres,3,2,166 Mountain View Dr,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/TRACT-Deer-Crest-Rd-C-Blue-Ridge-GA-30513/450637315_zpid/,415327,Lot/Land,155000,08/22/2025,,,,1.77,acres,,,TRACT Deer Crest Rd #C,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/879-Amy-Creek-Cir-Ellijay-GA-30540/2053609186_zpid/,1515988,Single Family,500000,08/22/2025,1704,sqft,293.43,4.43,acres,3,2,879 Amy Creek Cir,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/634-Tipton-Springs-Rd-Morganton-GA-30560/294990515_zpid/,,Single Family,10000,08/21/2025,2685,sqft,3.72,4.9,acres,3,2,634 Tipton Springs Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/Cohutta-Ct-Ellijay-GA-30540/228835646_zpid/,,Single Family,15000,08/20/2025,,,,0.9,acres,,,Cohutta Ct,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/1148-Hickory-Dr-Mineral-Bluff-GA-30559/96827272_zpid/,,Single Family,200000,08/19/2025,1950,sqft,102.56,2.39,acres,3,3,1148 Hickory Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/987-Cherry-Lake-Dr-Blue-Ridge-GA-30513/105259132_zpid/,415359,Single Family,335000,08/19/2025,672,sqft,498.51,1.08,acres,2,1,987 Cherry Lake Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/12081-Old-Highway-76-Morganton-GA-30560/228801544_zpid/,,Single Family,570000,08/19/2025,,,,2.04,acres,,2,12081 Old Highway 76,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/194-Lillie-Dr-1-Ellijay-GA-30540/247200760_zpid/,,Single Family,582500,08/19/2025,1820,sqft,320.05,1.64,acres,3,3,194 Lillie Dr #1,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/987-Cherry-Lake-Dr-76-Blue-Ridge-GA-30513/450789575_zpid/,10515291,Single Family,335000,08/19/2025,672,sqft,498.51,1.08,acres,2,1,987 Cherry Lake Dr #76,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/35-The-Blf-Morganton-GA-30560/228803365_zpid/,415738,Single Family,424500,08/18/2025,1482,sqft,286.44,2.65,acres,3,2,35 The Blf,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/5-Moccasin-Trl-Mineral-Bluff-GA-30559/228807171_zpid/,416982,Single Family,562500,08/18/2025,2340,sqft,240.38,3.46,acres,3,3,5 Moccasin Trl,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/12021-Old-Highway-76-Morganton-GA-30560/439795397_zpid/,417051,Single Family,570000,08/18/2025,1800,sqft,316.67,2.04,acres,3,4,12021 Old Highway 76,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/Laurel-Dr-Blue-Ridge-GA-30513/244415762_zpid/,,Single Family,140000,08/15/2025,,,,1.22,acres,,,Laurel Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/112-Split-Creek-Rd-Morganton-GA-30560/443706048_zpid/,412296,Lot/Land,105000,08/15/2025,,,,3.26,acres,,,112 Split Creek Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/300-Kaleb-Trl-Morganton-GA-30560/228799334_zpid/,,Single Family,75000,08/14/2025,864,sqft,86.81,4.48,acres,,1,300 Kaleb Trl,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/140-Bandit-Ln-Blue-Ridge-GA-30513/244415264_zpid/,,Single Family,250000,08/14/2025,,,,2.27,acres,,,140 Bandit Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/49-50-Hemlock-Cir-Blue-Ridge-GA-30513/448834024_zpid/,414005,Lot/Land,140000,08/14/2025,,,,1.22,acres,,,49/50 Hemlock Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/49-50-Hemlock-Cir-49-50-Blue-Ridge-GA-30513/448834153_zpid/,10480567,Lot/Land,140000,08/14/2025,,,,1.22,acres,,,49/50 Hemlock Cir #49-50,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/60-Bridle-Path-Morganton-GA-30560/453240066_zpid/,416500,Single Family,590000,08/14/2025,1156,sqft,510.38,1.5,acres,2,2,60 Bridle Path,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/54-Mountain-Rivers-Ln-Mineral-Bluff-GA-30559/96828369_zpid/,10553872,Lot/Land,67000,08/13/2025,,,,1.56,acres,,,54 Mountain Rivers Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/Oak-St-Morganton-GA-30560/294989335_zpid/,,Single Family,28000,08/13/2025,,,,0.51,acres,,,Oak St,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/54-Mountain-Rivers-Rd-Mineral-Bluff-GA-30559/454189788_zpid/,416890,Lot/Land,67000,08/13/2025,,,,1.56,acres,,,54 Mountain Rivers Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/9-Dean-Ct-Blue-Ridge-GA-30513/2064714818_zpid/,416304,Single Family,383000,08/13/2025,996,sqft,384.54,1.17,acres,2,2,9 Dean Ct,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Logan-Dr-Mineral-Bluff-GA-30559/241889534_zpid/,,Single Family,50000,08/12/2025,,,,1.48,acres,,,Logan Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/Kaleb-Trl-Morganton-GA-30560/244414872_zpid/,,Single Family,40000,08/12/2025,,,,3,acres,,,Kaleb Trl,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/266-Milsaps-Cir-Epworth-GA-30541/96824139_zpid/,415059,Single Family,258750,08/11/2025,1268,sqft,204.06,0.77,acres,2,2,266 Milsaps Cir,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/371-Little-Rock-Creek-Ct-2-Cherry-Log-GA-30522/105257633_zpid/,,Single Family,470272,08/11/2025,1564,sqft,300.69,2.08,acres,3,2,371 Little Rock Creek Ct #2,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/223-Friendship-Rd-Blue-Ridge-GA-30513/110791782_zpid/,412853,Single Family,289000,08/08/2025,1344,sqft,215.03,0.92,acres,3,2,223 Friendship Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Martin-Xing-Cherry-Log-GA-30522/244416288_zpid/,,Single Family,333000,08/08/2025,376,sqft,885.64,2.04,acres,,1,Martin Xing,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/371-Little-Rock-Creek-Ct-Cherry-Log-GA-30522/345423440_zpid/,416375,Single Family,470272,08/08/2025,1564,sqft,300.69,2.08,acres,3,2,371 Little Rock Creek Ct,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/300-Kaleb-Trl-Mineral-Bluff-GA-30559/448833753_zpid/,414274,Lot/Land,75000,08/08/2025,,,,4.48,acres,,,300 Kaleb Trl,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/160-Broken-Arrow-Path-Blue-Ridge-GA-30513/450648650_zpid/,416012,Single Family,535000,08/08/2025,1649,sqft,324.44,2.04,acres,2,2,160 Broken Arrow Path,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Kaleb-Trl-Mineral-Bluff-GA-30559/2085719518_zpid/,409849,Lot/Land,40000,08/08/2025,,,,3,acres,,,0 Kaleb Trl,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/570-Cabin-Trl-Blue-Ridge-GA-30513/96828202_zpid/,416965,Single Family,505000,08/07/2025,1475,sqft,342.37,1.15,acres,2,3,570 Cabin Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Pine-Grove-Dr-Blue-Ridge-GA-30513/241889021_zpid/,,Single Family,47500,08/07/2025,,,,1,acres,,,Pine Grove Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Pine-Grove-Dr-11-Blue-Ridge-GA-30513/442644616_zpid/,7486109,Lot/Land,47500,08/07/2025,,,,1,acres,0,0,0 Pine Grove Dr #11,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Pine-Grove-Dr-Mc-Caysville-GA-30555/442691642_zpid/,10414021,Lot/Land,47500,08/07/2025,,,,1,acres,,,0 Pine Grove Dr,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/570-Cabin-Trl-39-Blue-Ridge-GA-30513/454261020_zpid/,10555707,Single Family,505000,08/07/2025,1475,sqft,342.37,1.15,acres,2,3,570 Cabin Trl #39,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Pine-Grove-Dr-Blue-Ridge-GA-30513/2067126274_zpid/,411647,Lot/Land,47500,08/07/2025,,,,1,acres,,,0 Pine Grove Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/624-Ridgeview-Rd-Morganton-GA-30560/96826248_zpid/,417953,Single Family,103188,08/05/2025,1024,sqft,100.77,1,acres,2,2,624 Ridgeview Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/Laurel-Creek-Rd-Ellijay-GA-30536/228841602_zpid/,,Lot/Land,105000,08/05/2025,,,,2.13,acres,,0,Laurel Creek Rd,Ellijay,30536,GA,USA
+https://www.zillow.com/homedetails/231-Farmer-Cir-Mineral-Bluff-GA-30559/244415129_zpid/,,Single Family,505000,08/05/2025,1940,sqft,260.31,1.25,acres,,3,231 Farmer Cir,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/46-Dj-Dr-Ellijay-GA-30540/450665531_zpid/,415351,Single Family,585000,08/05/2025,1200,sqft,487.5,1.41,acres,2,2,46 Dj Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/569-Mine-Rd-20-Mc-Caysville-GA-30555/125351337_zpid/,420171,Single Family,120000,08/04/2025,1904,sqft,63.03,1.5,acres,3,2,569 Mine Rd #20,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/Whipporwill-Walk-Rd-Mineral-Bluff-GA-30559/228802870_zpid/,,Single Family,40000,08/04/2025,,,,1.37,acres,,,Whipporwill Walk Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/522-Satsuma-Ct-S-Ellijay-GA-30540/450190637_zpid/,415058,Single Family,401000,08/04/2025,,,,0.76,acres,2,3,522 Satsuma Ct S,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/Little-Creek-Dr-Cherry-Log-GA-30522/453855337_zpid/,,Single Family,45000,08/04/2025,,,,2,acres,,,Little Creek Dr,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/84-Cohutta-Ranch-Rd-Blue-Ridge-GA-30513/454482798_zpid/,,Single Family,175000,08/04/2025,,,,3.08,acres,,,84 Cohutta Ranch Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/930-Robert-Miller-Ln-Mineral-Bluff-GA-30559/96833010_zpid/,10497418,Single Family,372500,08/01/2025,1248,sqft,298.48,4.89,acres,3,2,930 Robert Miller Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/453-Flat-Creek-Cir-Blue-Ridge-GA-30513/228805241_zpid/,414404,Single Family,395000,08/01/2025,1350,sqft,292.59,1.8,acres,2,2,453 Flat Creek Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/307-Magnums-Trl-Blue-Ridge-GA-30513/353674179_zpid/,416699,Single Family,525000,08/01/2025,2500,sqft,210,1.1,acres,2,2,307 Magnums Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/270-Bench-Leg-Rd-Mineral-Bluff-GA-30559/96828534_zpid/,415555,Single Family,555000,07/31/2025,1064,sqft,521.62,1.77,acres,3,2,270 Bench Leg Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/200-Underlook-Rd-Blue-Ridge-GA-30513/228808666_zpid/,416952,Single Family,525000,07/31/2025,2304,sqft,227.86,2.86,acres,3,2,200 Underlook Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/125-Wilson-St-Blue-Ridge-GA-30513/228814503_zpid/,412625,Lot/Land,130000,07/31/2025,,,,0.71,acres,,,125 Wilson St,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Walhalla-Ct-Ellijay-GA-30540/228835545_zpid/,,Single Family,22000,07/31/2025,,,,0.79,acres,,,Walhalla Ct,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/Cherokee-Ln-Mc-Caysville-GA-30555/244416083_zpid/,,Single Family,300000,07/31/2025,,,,1.03,acres,,,Cherokee Ln,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/11-12-Cherokee-Ln-Mc-Caysville-GA-30555/447909718_zpid/,413517,Lot/Land,300000,07/31/2025,,,,2.14,acres,,,11-12 Cherokee Ln,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/11-12-Cherokee-Ln-11-12-Mc-Caysville-GA-30555/447910362_zpid/,7532750,Lot/Land,300000,07/31/2025,,,,2.14,acres,0,0,11-12 Cherokee Ln #11-12,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/0-Riverside-Ln-Blue-Ridge-GA-30513/351949684_zpid/,407405,Lot/Land,235000,07/29/2025,,,,0.53,acres,,,0 Riverside Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/17-Crockett-Laurel-Creek-Trl-Cherry-Log-GA-30522/441789360_zpid/,10376232,Lot/Land,105000,07/29/2025,,,,2.13,acres,,,17 Crockett Laurel Creek Trl,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/500-S-Williamstown-Rd-Mineral-Bluff-GA-30559/454483070_zpid/,,Single Family,181000,07/29/2025,1274,sqft,142.07,2.55,acres,,1,500 S Williamstown Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/140-Old-Copperhill-Rd-Blue-Ridge-GA-30513/96831310_zpid/,10548951,Single Family,105000,07/28/2025,1920,sqft,54.69,2.07,acres,2,1,140 Old Copperhill Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/18-Prides-Rdg-Blue-Ridge-GA-30513/228811517_zpid/,415422,Single Family,416500,07/28/2025,2100,sqft,198.33,1.28,acres,3,2,18 Prides Rdg,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Amy-Creek-Dr-Ellijay-GA-30540/228832497_zpid/,,Single Family,32000,07/28/2025,,,,1.8,acres,,,Amy Creek Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/58-Hatchett-Trl-Cherry-Log-GA-30522/228811447_zpid/,416211,Single Family,335000,07/25/2025,672,sqft,498.51,3.1,acres,2,1,58 Hatchett Trl,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/Katie-Haven-Rd-Morganton-GA-30560/295011706_zpid/,,Single Family,70000,07/25/2025,,,,0.79,acres,,,Katie Haven Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/45-Amy-Creek-Cir-Ellijay-GA-30540/341621478_zpid/,10512496,Lot/Land,32000,07/25/2025,,,,1.8,acres,,,45 Amy Creek Cir,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/1-Robert-Miller-Ln-Mineral-Bluff-GA-30559/449886734_zpid/,414693,Lot/Land,43333,07/25/2025,,,,1.5,acres,,,1 Robert Miller Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/3-Robert-Miller-Ln-Mineral-Bluff-GA-30559/449887013_zpid/,414695,Lot/Land,43333,07/25/2025,,,,1.5,acres,,,3 Robert Miller Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/2-Robert-Miller-Ln-Mineral-Bluff-GA-30559/449887019_zpid/,414694,Lot/Land,43333,07/25/2025,,,,1.5,acres,,,2 Robert Miller Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/45-Amy-Ln-Ellijay-GA-30540/450531316_zpid/,415260,Lot/Land,32000,07/25/2025,,,,1.8,acres,,,45 Amy Ln,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/45-Amy-Creek-Cir-45-Ellijay-GA-30540/450532463_zpid/,7571293,Lot/Land,32000,07/25/2025,,,,1.8,acres,0,0,45 Amy Creek Cir #45,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/LOT-19-Haven-Way-Blue-Ridge-GA-30513/2054519355_zpid/,414719,Lot/Land,200000,07/25/2025,,,,0.77,acres,,,LOT 19 Haven Way,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/170-Humphrey-Heights-Rd-Mineral-Bluff-GA-30559/228806701_zpid/,414814,Single Family,553820,07/23/2025,1764,sqft,313.96,3.56,acres,4,2,170 Humphrey Heights Rd,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/203-E-Thomas-Rd-Blue-Ridge-GA-30513/96832918_zpid/,,Single Family,265600,07/22/2025,996,sqft,266.67,3,acres,2,1,203 E Thomas Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/665-Davis-Rd-Blue-Ridge-GA-30513/228808068_zpid/,413141,Single Family,320000,07/22/2025,995,sqft,321.61,0.6,acres,2,2,665 Davis Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/120-Old-Hollow-Rd-Blue-Ridge-GA-30513/96832178_zpid/,416736,Single Family,194820,07/21/2025,720,sqft,270.58,1.1,acres,2,1,120 Old Hollow Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/4097-Mobile-Rd-Mc-Caysville-GA-30555/228810963_zpid/,419458,Single Family,244000,07/18/2025,,,,3,acres,2,1,4097 Mobile Rd,Mc Caysville,30555,GA,USA
+https://www.zillow.com/homedetails/Seneca-Dr-Ellijay-GA-30540/228835747_zpid/,,Single Family,35000,07/18/2025,,,,0.74,acres,,,Seneca Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/106-Taylor-Ridge-Rd-3-Blue-Ridge-GA-30513/228838607_zpid/,,Single Family,312450,07/18/2025,480,sqft,650.94,1.02,acres,1,1,106 Taylor Ridge Rd #3,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/160-Arrowhead-Pass-3-Ellijay-GA-30540/247202155_zpid/,,Single Family,579000,07/18/2025,990,sqft,584.85,2.78,acres,3,2,160 Arrowhead Pass #3,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/106-Taylor-Ridge-Rd-Blue-Ridge-GA-30513/402265184_zpid/,415610,Single Family,312450,07/18/2025,480,sqft,650.94,1.02,acres,1,1,106 Taylor Ridge Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/3031-Mineral-Bluff-Hwy-Mineral-Bluff-GA-30559/96827487_zpid/,413495,Single Family,335000,07/17/2025,2040,sqft,164.22,4.14,acres,3,3,3031 Mineral Bluff Hwy,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/86-Cozy-Valley-Ln-Cherry-Log-GA-30522/96828997_zpid/,7532546,Single Family,475000,07/17/2025,2208,sqft,215.13,1.6,acres,3,2,86 Cozy Valley Ln,Cherry Log,30522,GA,USA
+https://www.zillow.com/homedetails/47-Seneca-Dr-Ellijay-GA-30540/447287299_zpid/,415679,Lot/Land,35000,07/17/2025,,,,0.74,acres,,,47 Seneca Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/160-Arrowhead-Pass-Blue-Ridge-GA-30513/2060183315_zpid/,414209,Single Family,579000,07/17/2025,1100,sqft,526.36,2.78,acres,3,2,160 Arrowhead Pass,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/2443-Ada-St-Blue-Ridge-GA-30513/96831328_zpid/,7382012,Single Family,420000,07/16/2025,3408,sqft,123.24,2.49,acres,5,4,2443 Ada St,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Cook-Dr-Ellijay-GA-30540/228832537_zpid/,,Single Family,80000,07/16/2025,,,,3.52,acres,,,Cook Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/271-The-Builders-Hl-Morganton-GA-30560/228801986_zpid/,415732,Single Family,340000,07/15/2025,948,sqft,358.65,0.79,acres,2,2,271 The Builders Hl,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/101-Sweetwater-Trl-Epworth-GA-30541/228802075_zpid/,,Single Family,420000,07/15/2025,1200,sqft,350,1.95,acres,,2,101 Sweetwater Trl,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/419-Little-Rock-Creek-Rd-2-Ellijay-GA-30536/306560000_zpid/,,Lot/Land,210000,07/15/2025,,,,3.53,acres,,,419 Little Rock Creek Rd #2,Ellijay,30536,GA,USA
+https://www.zillow.com/homedetails/264-Tanglewood-Cv-Blue-Ridge-GA-30513/96829798_zpid/,415039,Single Family,539500,07/14/2025,3676,sqft,146.76,0.91,acres,5,4,264 Tanglewood Cv,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/240-Donna-Lee-Ln-Mineral-Bluff-GA-30559/228807513_zpid/,415923,Single Family,440000,07/14/2025,972,sqft,452.67,3,acres,2,2,240 Donna Lee Ln,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/67-Oakwood-Trl-Mineral-Bluff-GA-30559/448484469_zpid/,414039,Single Family,539500,07/14/2025,2016,sqft,267.61,1.11,acres,3,3,67 Oakwood Trl,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/220-Yellow-Bird-Dr-Blue-Ridge-GA-30513/96829820_zpid/,,Single Family,445000,07/11/2025,1440,sqft,309.03,1.05,acres,3,2,220 Yellow Bird Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/76-Friendship-Rd-Blue-Ridge-GA-30513/96833372_zpid/,416729,Lot/Land,20000,07/11/2025,,,,0.57,acres,,,76 Friendship Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/315-Mount-Carmel-Rd-Morganton-GA-30560/110790967_zpid/,10305828,Single Family,340000,07/11/2025,3412,sqft,99.65,2.71,acres,3,3,315 Mount Carmel Rd,Morganton,30560,GA,USA
+https://www.zillow.com/homedetails/118-Brandon-Ln-Epworth-GA-30541/228802268_zpid/,416507,Single Family,300000,07/11/2025,1392,sqft,215.52,2,acres,2,2,118 Brandon Ln,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/Laurel-Creek-Rd-Ellijay-GA-30536/306551504_zpid/,,Single Family,55000,07/11/2025,,,,1.18,acres,,,Laurel Creek Rd,Ellijay,30536,GA,USA
+https://www.zillow.com/homedetails/0-Laurel-Creek-Way-28-Blue-Ridge-GA-30513/448973955_zpid/,7494763,Lot/Land,55000,07/11/2025,,,,1.18,acres,0,0,0 Laurel Creek Way #28,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/11-Mill-Creek-Acres-Blue-Ridge-GA-30513/294988985_zpid/,10402889,Lot/Land,28000,07/10/2025,,,,1,acres,,,11 Mill Creek Acres,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/220-Old-Mill-Trce-Blue-Ridge-GA-30513/442136663_zpid/,414474,Single Family,420000,07/10/2025,2749,sqft,152.78,4.34,acres,3,3,220 Old Mill Trce,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/0-Watkins-Rd-Blue-Ridge-GA-30513/446618859_zpid/,10548944,Lot/Land,55000,07/10/2025,,,,3.24,acres,,,0 Watkins Rd,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/208-Sweetwater-Trl-Epworth-GA-30541/446928393_zpid/,412986,Single Family,420000,07/10/2025,1050,sqft,400,0.9,acres,2,1,208 Sweetwater Trl,Epworth,30541,GA,USA
+https://www.zillow.com/homedetails/220-Yellowbird-Trl-40-Blue-Ridge-GA-30513/450414784_zpid/,10510864,Single Family,445000,07/10/2025,2880,sqft,154.51,1.05,acres,4,3,220 Yellowbird Trl #40,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/220-Yellowbird-Trl-Blue-Ridge-GA-30513/2137883854_zpid/,412848,Single Family,445000,07/10/2025,2880,sqft,154.51,1.05,acres,4,3,220 Yellowbird Trl,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/315-Mill-Creek-Acres-Blue-Ridge-GA-30513/96824946_zpid/,414026,Single Family,270000,07/09/2025,1407,sqft,191.9,1,acres,3,2,315 Mill Creek Acres,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Shenendoa-Dr-Ellijay-GA-30540/228835777_zpid/,,Single Family,27500,07/09/2025,,,,1.1,acres,,,Shenendoa Dr,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/50-Toccoa-Preserve-Ln-Blue-Ridge-GA-30513/441944859_zpid/,416033,Single Family,576429,07/09/2025,2685,sqft,214.68,1.03,acres,4,3,50 Toccoa Preserve Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/228-Ernest-Alta-Cir-Blue-Ridge-GA-30513/228804930_zpid/,7558548,Single Family,585900,07/08/2025,2040,sqft,287.21,0.94,acres,3,3,228 Ernest Alta Cir,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/7255-Blue-Ridge-Dr-Blue-Ridge-GA-30513/228813942_zpid/,415217,Single Family,250000,07/07/2025,,,,2.34,acres,4,2,7255 Blue Ridge Dr,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/99-Mull-Dr-Mineral-Bluff-GA-30559/305161319_zpid/,,Single Family,177500,07/07/2025,650,sqft,273.08,4.14,acres,1,1,99 Mull Dr,Mineral Bluff,30559,GA,USA
+https://www.zillow.com/homedetails/162-Toccoa-Overlook-Ln-Blue-Ridge-GA-30513/228804833_zpid/,413975,Single Family,525000,07/03/2025,2080,sqft,252.4,1.64,acres,3,3,162 Toccoa Overlook Ln,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/2357-Ada-St-Blue-Ridge-GA-30513/453103608_zpid/,416424,Single Family,584000,07/03/2025,1288,sqft,453.42,1.51,acres,2,3,2357 Ada St,Blue Ridge,30513,GA,USA
+https://www.zillow.com/homedetails/Neshoba-Ct-E-Ellijay-GA-30540/228836059_zpid/,,Single Family,160000,07/02/2025,,,,1.45,acres,,,Neshoba Ct E,Ellijay,30540,GA,USA
+https://www.zillow.com/homedetails/13-Katie-Haven-Rd-Morganton-GA-30560/450094831_zpid/,414937,Lot/Land,70000,07/02/2025,,,,0.79,acres,,,13 Katie Haven Rd,Morganton,30560,GA,USA
